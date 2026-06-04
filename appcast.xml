@@ -12,7 +12,8 @@ xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
 url="https://tmpfiles.org/dl/wqwpgJqOhPpd/phoenixcode-1.1.zip"
 sparkle:version="2"
 sparkle:shortVersionString="1.1"
-length="12345678"
+sparkle:edSignature="dq1kGXgEEvltNxSIg3711lVIUyiWQsrUyK6NAagIl70PXc96aVOimZL0ZATMTBFa6fIH9HQRNpdGX4NiXwpjDQ=="
+length="828"
 type="application/octet-stream"/>
 
 </item>
